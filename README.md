@@ -1,2 +1,0 @@
-# arosVanja
-aros projekat
